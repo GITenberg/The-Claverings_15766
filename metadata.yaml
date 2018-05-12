@@ -1,0 +1,41 @@
+_repo: The-Claverings_15766
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Trollope, Anthony
+    birthdate: 1815
+    deathdate: 1882
+    gutenberg_agent_id: '324'
+    url: http://www.gutenberg.org/2009/agents/324
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Trollope
+description: Harry Clavering, after a brilliant career at Oxford, was jilted by Julia
+  Brabazon in favor of a wealthy old debauchee, Lord Ongar. After an unhappy year
+  on the Continent, culminating in the death of her husband, the wealthy widow, accompanied
+  by the sycophant Sophie Gordeloup and her brother Count Pateroff, established herself
+  in London. Harry had become a civil engineer and was engaged to Florence Burton,
+  daughter of a member of his firm. Assuming incorrectly that Lady Ongar knew of his
+  engagement, he allowed himself to be again drawn into her circle until it became
+  clear that she wished to renew their old engagement. The temptation was great but
+  he resisted it. About this time Sir Hugh Clavering and his brother were drowned
+  in a storm off the coast of Norway and Harry became the heir to the estate and married
+  Florence.
+gutenberg_issued: '2005-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15766'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Triangles (Interpersonal relations) -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Widows -- Fiction'
+- !lcsh 'Inheritance and succession -- Fiction'
+title: The Claverings
+url: http://www.gutenberg.org/ebooks/15766
